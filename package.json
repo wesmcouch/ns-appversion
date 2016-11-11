@@ -1,0 +1,29 @@
+{
+  "name": "ns-appversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appversion.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesmcouch/ns-appversion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesmcouch/ns-appversion/issues"
+  },
+  "homepage": "https://github.com/wesmcouch/ns-appversion#readme",
+  "dependencies": {
+    "typescript": "^2.0.8"
+  }
+}
