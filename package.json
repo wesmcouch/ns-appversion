@@ -9,6 +9,9 @@
       "ios": "2.3.0"
     }
   },
+  "devDependencies": {
+    "tns-core-modules": "2.3.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
